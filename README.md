@@ -1,2 +1,2 @@
 # spring-boot-onetoone
-SpringBoot OneToOne relationship mapping
+SpringBoot OneToOne relationship mapping simple example
